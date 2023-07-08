@@ -13,9 +13,9 @@
 
 ## Education
 
-- B.Tech (Electrical Engineering)
+- B.Tech (Electrical Engineering) - Completed
   - Delhi Technological University
-  - May 2019 - Present
+  - May 2019 - May 2023
   - CGPA: 7.84 🎓
 
 ## Internships/Work Experience
