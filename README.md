@@ -49,7 +49,7 @@
 
 ## Contact Information
 
-- Email: sachin@gmail.com 📧
+- Email: sachiniqdelhi32@gmail.com 📧
 - LinkedIn: [Sachin Kumar](https://www.linkedin.com/in/sachin-kumar-b22778216/) 🔗
 - GitHub: [sachin-kumar-github](https://github.com/sachin-dtu) 🐙
 
