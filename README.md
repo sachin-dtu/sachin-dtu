@@ -22,7 +22,7 @@
 
 - Teaching Assistant, Coding Ninjas
   - April 2023 - Present
-  - Assisted students with coursework in Python and Data Structures and Algorithms (DSA) 👨‍🏫🐍📚
+  - Assists students with coursework in Python and data structures and algorithms (DSA) 👨‍🏫🐍📚
 
 - Summer Intern - Electrical Engineer Trainee, NDMC (New Delhi Municipal Council)
   - June 2022 - August 2022
