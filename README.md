@@ -8,7 +8,7 @@
 
 - **Open Source Contributor**: I actively contribute to various open source projects, lending my skills to make a positive impact on diverse and exciting projects.
   
-- **Programming Languages**: Proficient in [ Programming Languages: Python, JavaScript, CSS 🐍🌐🎨 Tools: Dialux Evo, AutoCAD, MATLAB, Microsoft Office, Tableau, Data Structure, Google Colab, MySQL 💡📐📊💻], I enjoy exploring new technologies and solving challenges with elegant solutions.
+- **Programming Languages**: Proficient in Python, JavaScript, CSS 🐍🌐🎨 Tools: Dialux Evo, AutoCAD, MATLAB, Microsoft Office, Tableau, Data Structure, Google Colab, MySQL 💡📐📊💻, I enjoy exploring new technologies and solving challenges with elegant solutions.
 
 - **Community Engagement**: Actively involved in community discussions and events, I believe in the power of a supportive and inclusive tech community.
 
@@ -24,10 +24,9 @@ Open source is not just about code; it's about the community, the collaboration,
 
 ## 🌐 Where to Find Me
 
-- **GitHub**: [Your GitHub Profile](https://github.com/your_username) - Explore my contributions and projects.
+- **GitHub**: [GitHub Profile](https://github.com/sachin-dtu) - Explore my contributions and projects.
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/sachin-kumar-b22778216/) - Let's connect and share insights🔗.
 - **Email**: sachiniqdelhi32@gmail.com 📧
-  
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your_username) - Let's connect and share insights🔗.
 ## Interests
 
 - Lighting Design (Dialux Evo, AutoCAD) 💡📐
