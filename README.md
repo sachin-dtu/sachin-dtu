@@ -1,54 +1,37 @@
 # Sachin Kumar - Electrical Engineer 👨‍🔧💡💻
 
-
-
 ## About Me
 
-👋 Hello! I am Sachin Kumar, a passionate and dedicated Electrical Engineer with a strong background in programming, electrical systems, and lighting design. I recently completed my B.Tech in Electrical Engineering from Delhi Technological University, where I honed my technical skills and gained practical experience through internships and academic projects.
+👋 Hello! I am Sachin Kumar, a passionate and dedicated Electrical Engineer with a strong background in programming, electrical systems, and lighting design. I recently completed my B.Tech in Electrical Engineering from Delhi Technological University in 2023, where I honed my technical skills and gained practical experience through internships and academic projects.
 
-## Skills
+## 💻 What I Do
 
-- Programming Languages: Python, JavaScript, CSS 🐍🌐🎨
-- Tools: Dialux Evo, AutoCAD, MATLAB, Microsoft Office, Tableau, Data Structure, Google Colab, MySQL 💡📐📊💻
+- **Open Source Contributor**: I actively contribute to various open source projects, lending my skills to make a positive impact on diverse and exciting projects.
+  
+- **Programming Languages**: Proficient in [ Programming Languages: Python, JavaScript, CSS 🐍🌐🎨 Tools: Dialux Evo, AutoCAD, MATLAB, Microsoft Office, Tableau, Data Structure, Google Colab, MySQL 💡📐📊💻], I enjoy exploring new technologies and solving challenges with elegant solutions.
 
-## Education
+- **Community Engagement**: Actively involved in community discussions and events, I believe in the power of a supportive and inclusive tech community.
 
-- B.Tech (Electrical Engineering) - Completed
-  - Delhi Technological University
-  - May 2019 - May 2023 🎓
 
-## Internships/Work Experience
+## 🚀 Let's Collaborate!
 
-- Teaching Assistant, Coding Ninjas
-  - April 2023 - Present
-  - Assists students with coursework in Python and data structures and algorithms (DSA) 👨‍🏫🐍📚
+If you're working on an exciting open source project or have ideas for collaboration, feel free to reach out. I'm always looking for opportunities to learn, grow, and contribute to meaningful projects.
 
-- Summer Intern - Electrical Engineer Trainee, NDMC (New Delhi Municipal Council)
-  - June 2022 - August 2022
-  - Ensured maintenance of electrical circuits in buildings administered by NDMC, examined and repaired faults in the transmission system ⚡🏢🔧
+Open source is not just about code; it's about the community, the collaboration, and the continuous learning. Let's build the future together!
 
-## Academic Projects
+---
 
-1. Optimizing Classroom Lighting System - Simulation-based using Dialux Evo
-   - Conducted a study on lighting design and energy optimization for educational space, focusing on Classroom SPS12 at DTU.
-   - Objective: Achieve optimal lighting levels while minimizing energy consumption.
-   - Compared 2400-lumen and 3400-lumen bulbs to evaluate performance.
-   - Demonstrated expertise in lighting design principles, energy optimization strategies, and data analysis. 💡📊🏫
 
-2. Rock vs Mine - Classification using Logical Regression
-   - Developed a machine learning model to classify sonar signals as rock or mine based on 60 different features using Logical Regression.
-   - Tools Used: Colab, Python, Numpy, Pandas, Scikit-learn, Logical Regression, Train-Test split, Accuracy Score. 🪨🚢🧪
+## 🌐 Where to Find Me
 
+- **GitHub**: [Your GitHub Profile](https://github.com/your_username) - Explore my contributions and projects.
+- **Email**: sachiniqdelhi32@gmail.com 📧
+  
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your_username) - Let's connect and share insights🔗.
 ## Interests
 
 - Lighting Design (Dialux Evo, AutoCAD) 💡📐
 - Data Analysis 📊🔍
 - Computer Programming 💻👨‍💻
 - Sustainable Practices ♻️🌱
-
-## Contact Information
-
-- Email: sachiniqdelhi32@gmail.com 📧
-- LinkedIn: [Sachin Kumar](https://www.linkedin.com/in/sachin-kumar-b22778216/) 🔗
-- GitHub: [sachin-kumar-github](https://github.com/sachin-dtu) 🐙
 
