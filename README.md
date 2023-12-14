@@ -25,7 +25,7 @@ Open source is not just about code; it's about the community, the collaboration,
 ## 🌐 Where to Find Me
 
 - **GitHub**: [GitHub Profile](https://github.com/sachin-dtu) - Explore my contributions and projects.
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/sachin-kumar-b22778216/) - Let's connect and share insights🔗.
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/sachin-kumar-b2277816/) - Let's connect and share insights🔗.
 - **Email**: sachiniqdelhi32@gmail.com 📧
 ## Interests
 
