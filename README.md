@@ -1,36 +1,38 @@
-# Sachin Kumar - Electrical Engineer 👨‍🔧💡💻
+# Sachin Kumar — Electrical Engineer 👨‍🔧💡💻
 
-## About Me
+## 👋 About Me
 
-👋 Hello! I am Sachin Kumar, a passionate and dedicated Electrical Engineer with a strong background in programming, electrical systems, and lighting design. I recently completed my B.Tech in Electrical Engineering from Delhi Technological University in 2023, where I honed my technical skills and gained practical experience through internships and academic projects.
+Hello! I’m Sachin Kumar, an enthusiastic Electrical Engineer with a passion for technology, programming, and innovative lighting design. I graduated with a B.Tech in Electrical Engineering from Delhi Technological University (DTU) in 2023, where I gained hands-on experience through impactful projects and internships.
 
-## 💻 What I Do
+## 💻 My Skills & Experience
 
-- **Open Source Contributor**: I actively contribute to various open source projects, lending my skills to make a positive impact on diverse and exciting projects.
-  
-- **Programming Languages**: Proficient in Python, JavaScript, CSS 🐍🌐🎨 Tools: Dialux Evo, AutoCAD, MATLAB, Microsoft Office, Tableau, Data Structure, Google Colab, MySQL 💡📐📊💻, I enjoy exploring new technologies and solving challenges with elegant solutions.
+- **Open Source Contributor:** I actively participate in open-source communities, collaborating on projects that drive real-world impact and foster collective learning.
+- **Programming:** Skilled in Python, JavaScript, and CSS.  
+  **Tools:** Dialux Evo, AutoCAD, MATLAB, Google Colab, Tableau, MySQL, Microsoft Office — I love exploring and mastering new technologies.
+- **Data & Design:** Experienced in lighting design (Dialux Evo, AutoCAD), and data analysis, bringing creativity and technical expertise together.
+- **Community Engagement:** I thrive in collaborative environments and enjoy engaging in technical discussions, meetups, and knowledge-sharing sessions.
 
-- **Community Engagement**: Actively involved in community discussions and events, I believe in the power of a supportive and inclusive tech community.
+## 🚀 Let’s Collaborate!
 
+Are you working on an open-source project or have a new idea? I’m always eager to connect with fellow engineers, programmers, and innovators. Together, we can learn, build, and contribute to a better, more connected future.
 
-## 🚀 Let's Collaborate!
-
-If you're working on an exciting open source project or have ideas for collaboration, feel free to reach out. I'm always looking for opportunities to learn, grow, and contribute to meaningful projects.
-
-Open source is not just about code; it's about the community, the collaboration, and the continuous learning. Let's build the future together!
+> Open source is about code, community, and continuous growth. Let’s make a difference together!
 
 ---
 
+## 🌐 Connect With Me
 
-## 🌐 Where to Find Me
+- **GitHub:** [github.com/sachin-dtu](https://github.com/sachin-dtu) — Check out my projects & contributions.
+- **LinkedIn:** [linkedin.com/in/sachin-kumar-b2277816/](https://www.linkedin.com/in/sachin-kumar-b2277816/) — Let’s connect!
+- **Email:** sachiniqdelhi32@gmail.com
 
-- **GitHub**: [GitHub Profile](https://github.com/sachin-dtu) - Explore my contributions and projects.
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/sachin-kumar-b2277816/) - Let's connect and share insights🔗.
-- **Email**: sachiniqdelhi32@gmail.com 📧
-## Interests
+## 🎯 Interests
 
 - Lighting Design (Dialux Evo, AutoCAD) 💡📐
-- Data Analysis 📊🔍
-- Computer Programming 💻👨‍💻
-- Sustainable Practices ♻️🌱
+- Data Analysis & Visualization 📊🔍
+- Computer Programming & Automation 💻👨‍💻
+- Sustainability & Green Technologies ♻️🌱
 
+---
+
+Looking forward to connecting and collaborating!
