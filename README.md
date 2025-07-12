@@ -32,7 +32,9 @@ Are you working on an open-source project or have a new idea? I’m always eager
 - Data Analysis & Visualization 📊🔍
 - Computer Programming & Automation 💻👨‍💻
 - Sustainability & Green Technologies ♻️🌱
+## 🚀 Achievements
 
+- Cleared GATE Electrical Engineering (EE) Exam - 2025
 ---
 
 Looking forward to connecting and collaborating!
